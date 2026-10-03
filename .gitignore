@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.pytest_cache/
+.coverage
+valid_private.pem
+expired_private.pem
+key_metadata.json
